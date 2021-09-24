@@ -1,4 +1,42 @@
-body (
+body {
+  background-color: lightskyblue;
+  color: brown;
+  font-size: 25px;
+}
+h1 {
+  color: tomato;
+}
 
-
-)
+.white-font {
+  color: brown;
+}
+.main-header {
+  color: purple;
+}
+.main-header {
+  margin: 50px;
+}
+.first,
+.second,
+.third {
+  color: orangered;
+}
+.main-header {
+  text-align: center;
+}
+.white-font,
+.first,
+.black-font,
+.second,
+.Green-font,
+.third {
+  text-align: center;
+}
+.img,
+.img2,
+.img3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500;
+}
