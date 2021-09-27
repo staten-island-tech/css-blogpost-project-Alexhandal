@@ -1,6 +1,6 @@
 body {
-  background-color: lightskyblue;
-  color: brown;
+  background-color: grey;
+  color: black;
   font-size: 25px;
 }
 h1 {
@@ -8,18 +8,17 @@ h1 {
 }
 
 .white-font {
-  color: brown;
+  color: black;
 }
 .main-header {
-  color: purple;
-}
-.main-header {
+  color: black;
   margin: 50px;
 }
+
 .first,
 .second,
 .third {
-  color: orangered;
+  color: black;
 }
 .main-header {
   text-align: center;
@@ -39,4 +38,9 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 500;
+}
+.background {
+  background-color: burlywood;
+  margin-left: 50px;
+  margin-right: 50px;
 }
