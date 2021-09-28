@@ -1,10 +1,10 @@
 body {
+  font-family: "Raleway", sans-serif;
   background-color: grey;
   color: black;
   font-size: 25px;
-}
-h1 {
-  color: tomato;
+  border: solid cadetblue 8px;
+  position: absolute;
 }
 
 .white-font {
@@ -19,17 +19,22 @@ h1 {
 .second,
 .third {
   color: black;
+  text-align: center;
+  margin-left: 400px;
+  margin-right: 400px;
+  border: cadetblue 15px solid;
 }
+
 .main-header {
   text-align: center;
 }
 .white-font,
-.first,
 .black-font,
-.second,
-.Green-font,
-.third {
+.Green-font {
   text-align: center;
+  background-color: burlywood;
+  margin-left: 700px;
+  margin-right: 700px;
 }
 .img,
 .img2,
@@ -40,7 +45,7 @@ h1 {
   width: 500;
 }
 .background {
-  background-color: burlywood;
-  margin-left: 50px;
-  margin-right: 50px;
+  background-color: white;
+  margin-left: 600px;
+  margin-right: 600px;
 }
