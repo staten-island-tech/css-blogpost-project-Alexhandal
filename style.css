@@ -6,30 +6,35 @@ body {
   border: solid cadetblue 8px;
   position: absolute;
 }
-.background{
+.background {
   text-align: center;
   background-color: cadetblue;
   margin-top: 50px;
   margin-left: 500px;
-margin-right: 500px;
+  margin-right: 500px;
 }
-.post,.main,.image {
+.post,
+.main,
+.image {
   text-align: center;
   background-color: burlywood;
   margin-left: 400px;
   margin-right: 400px;
 }
-.white-font,.black-font,.Green-font {
-text-align: center;
-background-color: darkcyan;
-margin-left: 600px;
-margin-right: 600px;
+.white-font,
+.black-font,
+.Green-font {
+  text-align: center;
+  background-color: darkcyan;
+  margin-left: 600px;
+  margin-right: 600px;
 }
-.third{
+.third {
   margin-bottom: 50px;
 }
 
-#bbal,#bal,#al{
+#bbal,
+#bal,
+#al {
   width: 500px;
 }
-
